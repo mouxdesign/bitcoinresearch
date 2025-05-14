@@ -2,7 +2,8 @@
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+title: "Bitcoin UX Research"
+description: "A base to hold UX Research done by the Bitcoin Ecosystem"
 
 #-------------------------------
 # Build Settings
