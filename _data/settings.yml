@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Renva
+title: Bitcoin Research
 logo: '/images/logo.svg' # You can add own logo. For example '/images/logo.png'.
 logo_dark: '/images/logo-dark.svg'
 description: Renva is a creative portfolio theme for Jekyll.
@@ -38,7 +38,7 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_role: Artist ∙ Designer ∙ Thinker
+  hero_role: Opensource ∙ Bitcoin ∙ Research
   hero_title: Hi! I’m James <img src="/images/01-1.jpg" alt="James Brown's Picture" loading="lazy"> <br> I Create Things That Work for Your Business
   hero_description:
   hero_button_text: Let’s make dream together
