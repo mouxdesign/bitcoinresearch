@@ -41,8 +41,8 @@ hero:
 # Projects Section Settings
 projects:
   enable: true
-  projects_title: Selected Works
-  projects_description: This series celebrates cultural diversity and heritage through intricate, detailed designs. Drawing inspiration from various cultures and traditions, I create artworks that tell stories of identity and community. The pieces are rich in symbolism and patterns, offering a deep, visual narrative. By honoring cultural histories, the series fosters a sense of connection and appreciation for global diversity.
+  projects_title: Bitcoin UX Research Toolkit
+  projects_description: Wondering how people use your product? What functionality they need? Or what they might be struggling with?
 
 
 #-------------------------------
@@ -58,9 +58,8 @@ blog:
 about:
   enable: true
   about_image: '/images/01.jpg'
-  about_title: Short Story About Me
-  about_description: I find inspiration in the everyday moments and the extraordinary experiences that shape our world. My journey began with a passion for visual storytelling, which led me to explore various mediums and techniques.
-
+  about_title: Made by
+  about_description: This has been created by the Bitcoin Design Community, an online community of bitcoin builders. It is our wish that the insights and tools you find here will empoer you as a builder to build with humans at the center of everything you do.
 
 #-------------------------------
 # Social Links
