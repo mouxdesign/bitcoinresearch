@@ -32,7 +32,7 @@ author:
 hero:
   enable: true
   hero_role: Artist ∙ Designer ∙ Thinker
-  hero_title: Understanding users drives Bitcoin adoption. Understanding users drives Bitcoin adoption. Research-backed insights for better Bitcoin experiences.
+  hero_title: Understanding users drives Bitcoin adoption. Research-backed insights for better Bitcoin experiences.
   hero_button_text: Get Insights
   hero_button_link: "/reports/"
 
