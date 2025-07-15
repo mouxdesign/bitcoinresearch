@@ -15,7 +15,7 @@ menu_settings:
       url: '/'
     - title: 'Toolkit'
       url: '/toolkit/'
-    - title: 'reports'
+    - title: 'Reports'
       url: '/reports/'
     - title: 'About'
       url: '/about/'
@@ -31,7 +31,7 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_role: Artist ∙ Designer ∙ Thinker
+  hero_role: Understand ∙ Design ∙ Build
   hero_title: Understanding users drives Bitcoin adoption. Research-backed insights for better Bitcoin experiences.
   hero_button_text: Get Insights
   hero_button_link: "/reports/"
