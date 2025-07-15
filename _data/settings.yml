@@ -49,9 +49,8 @@ projects:
 # Blog Section Settings
 blog:
   enable: true
-  blog_title: From My Blog
-  blog_description: Dive into a world of creativity and inspiration through my blog. Here, I share insights into my artistic process, design trends, and the stories behind my latest projects.
-
+  blog_title: Latest Research
+  blog_description: Fresh insights and findings to help Bitcoin builders create better user experiences.
 
 #-------------------------------
 # About Section Settings
