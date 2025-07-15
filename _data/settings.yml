@@ -57,8 +57,8 @@ blog:
 about:
   enable: true
   about_image: '/images/01.jpg'
-  about_title: Made by
-  about_description: This has been created by the Bitcoin Design Community, an online community of bitcoin builders. It is our wish that the insights and tools you find here will empoer you as a builder to build with humans at the center of everything you do.
+  about_title: Made by the Bitcoin Design Community
+  about_description: This has been created by the Bitcoin Design Community, an open-source collective of designers and researchers working to improve Bitcoin UX for everyone.
 
 #-------------------------------
 # Social Links
