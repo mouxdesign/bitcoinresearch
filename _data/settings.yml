@@ -32,7 +32,7 @@ author:
 hero:
   enable: true
   hero_role: Understand ∙ Design ∙ Build
-  hero_title: Research insights that improve Bitcoin for everyone.
+  hero_title: Research insights that improve bitcoin for everyone.
   hero_button_text: Get Insights
   hero_button_link: "/reports/"
 
@@ -50,7 +50,7 @@ projects:
 blog:
   enable: true
   blog_title: Latest Research
-  blog_description: Fresh insights and findings to help Bitcoin builders create better user experiences.
+  blog_description: Fresh insights and findings to help bitcoin builders create better user experiences.
 
 #-------------------------------
 # About Section Settings
