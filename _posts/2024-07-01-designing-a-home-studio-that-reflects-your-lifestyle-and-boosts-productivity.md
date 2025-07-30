@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing a home studio that reflects your lifestyle and boosts productivity
+title: Oslo UX Research 2025
 description: A well-designed home studio can be a sanctuary for creativity. In this post, I discuss how to create a workspace that reflects your lifestyle and enhances productivity. From layout and lighting to decor and organization, I share tips on designing a studio tha
 date: 2024-07-01 15:01:35 +0300
 image: '/images/11.jpg'
