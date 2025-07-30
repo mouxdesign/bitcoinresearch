@@ -1,22 +1,34 @@
 ---
 layout: post
-title: Oslo UX Research 2025
-description: A well-designed home studio can be a sanctuary for creativity. In this post, I discuss how to create a workspace that reflects your lifestyle and enhances productivity. From layout and lighting to decor and organization, I share tips on designing a studio tha
-date: 2024-07-01 15:01:35 +0300
+title: A research initiative on the software needs of Activists
+description: A report based on UX research done at the Oslo Freedom Forum, May 16-28, 2025
+date: 2025-07-30 15:01:35 +0300
 image: '/images/11.jpg'
 image_caption: 'Photo by [Jason Yuen](https://unsplash.com/photos/a-kitchen-with-a-potted-plant-on-the-counter-ORah42h8qK8) on [Unsplash](https://unsplash.com/)'
-tags: [Lifestyle]
+tags: [Activists]
 ---
 
-Writing is a profound form of artistic expression that complements visual arts. For artists, designers, and thinkers, writing serves as a tool for self-discovery, storytelling, and communication. It allows us to articulate our thoughts, document our journeys, and connect with others on a deeper level. Keeping a creative journal is a powerful practice. It allows for documenting thoughts, ideas, and experiences, providing a space for reflection and growth. Regular journaling helps in clarifying complex ideas and tracking our creative evolution over time.
+## Research summary
 
-## Writing can be integrated with other art forms
+### Challenges
+Activists worldwide face a dangerous balancing act – they need to reach massive audiences while keeping themselves and their networks safe. This research reveals the stark reality of their daily struggle with inadequate tools that force them to choose between impact, reach and security.
 
-Writing can help clarify complex ideas and concepts. It forces us to organize our thoughts and articulate our visions clearly. This process of articulation often leads to new insights and deeper understanding of our work and ourselves.
+### What we found
+Through interviews with 11 activists across four continents, we discovered that current communication and financial tools are failing those who need them most. Nearly half (5/11) have already had their accounts hacked or spied on, yet they're forced to use mainstream platforms like WhatsApp, Signal, and Twitter because that's where their audiences are. The risk is real – for many, having their messages intercepted could mean prison or death.
 
-Writing also serves as a medium for exploring and expressing our inner thoughts and emotions. It provides a safe space for introspection and self-exploration. Through writing, we can process our feelings, confront our fears, and celebrate our achievements.
+### Communication reality
+Activists primarily communicate with two groups: the general public (9/11) and fellow activists (6/11). They're using multiple platforms out of necessity, not preference. While they appreciate the convenience and widespread adoption of current tools, they desperately want better privacy, non-KYC solutions, and offline communication methods. Most (6/11) are using VPNs, showing they're proactively trying to protect themselves with whatever tools they have.
 
-> "Design is not just what it looks like and feels like. Design is how it works."
+### Financial struggles
+The traditional banking system is actively pushing activists out. Of those who answered, nearly half (4/9) have had accounts frozen or closed, with others threatened or completely cut off from personal banking. They're managing money with basic tools – handwritten notes, Excel sheets, and bank emails – because professional systems aren't accessible or safe for them. Most still rely on regular banks (8/9) with only a few experimenting with Bitcoin (2/9).
+
+### The Bitcoin Gap
+While some activists see Bitcoin as potentially life-saving – one said "Bitcoin was a lifeline when I got out of Burma" – there's a massive knowledge and usability gap. Understanding ranges from very high (44%) to practically none, and half of those interested lack confidence to actually use it. Many don't know how to convert Bitcoin back to regular money, creating a significant practical barrier.
+
+### Bottom Line
+Activists need tools that combine the reach of mainstream platforms with the security of military-grade privacy systems. They need financial tools that work when traditional systems fail them. The current landscape forces them into impossible choices between effectiveness and safety – and the development community has a real opportunity to build solutions that could literally save lives while empowering those fighting for a better world.
+
+> "quote here."
 
 The act of writing requires discipline and dedication. Setting aside regular time for writing helps in developing a consistent practice. This discipline fosters creativity and ensures that we continually engage with our ideas and projects. Collaboration in writing can lead to exciting and innovative outcomes. Working with other writers, editors, and creatives allows for the exchange of ideas, constructive feedback, and the blending of different perspectives. Collaborative writing projects can result in richer and more diverse works.
 
