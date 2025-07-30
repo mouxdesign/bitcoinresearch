@@ -30,21 +30,188 @@ Activists need tools that combine the reach of mainstream platforms with the sec
 
 > "quote here."
 
-The act of writing requires discipline and dedication. Setting aside regular time for writing helps in developing a consistent practice. This discipline fosters creativity and ensures that we continually engage with our ideas and projects. Collaboration in writing can lead to exciting and innovative outcomes. Working with other writers, editors, and creatives allows for the exchange of ideas, constructive feedback, and the blending of different perspectives. Collaborative writing projects can result in richer and more diverse works.
+## Why we conducted this research
+It’s a tough time for people speaking out. Activists around the world face big problems – from being blocked online to having trouble getting money. We wanted to understand what they really need so we can have insight into what tools they really need. With this insight we can then share it with the developer community so that together we can truly support those fighting for a better world.
 
-Writing can be a therapeutic and healing process. It allows us to confront and process difficult emotions, gain perspective, and find solace. Therapeutic writing, such as journaling, can be a powerful tool for mental health and well-being.
+The research initiative aimed to understand two main areas:
 
-![Desktop](/images/11-1.jpg)
-*Photo by [EFFYDESK](https://unsplash.com/photos/a-woman-sitting-at-a-desk-with-a-laptop-zyMtujfaZ_I) on [Unsplash](https://unsplash.com/)*
+### 1. Communication
+We wanted to understand how they currently communicate, who they communicate with the most, as well as their fears. Using this insight we can then share this with the development community so that they might understand what tools could be built or which already exist that could support the communication needs of activists.
 
-The editing process is a crucial phase of writing. Revising and refining our work ensures clarity, coherence, and impact. Editing involves more than just correcting errors. It requires a critical eye to enhance the overall structure and flow of the text. Writing about our creative process and projects provides valuable insights and documentation. It allows us to share our journey with others, reflecting on our experiences, challenges, and achievements. This practice can also serve as a source of inspiration and learning for fellow creatives.
+### 2. Financial transacting
+We wanted to understand their financial transaction needs. How do they transact right now, what are they struggling with and what are their needs?
 
-Writing can also be a means of advocacy and activism. It allows us to raise awareness, share our perspectives, and inspire change. Through our words, we can contribute to important conversations and amplify voices that need to be heard.
+## How we did it
+Between May 26th and 28th, 2025, we talked to 11 activists from all over – Africa, Asia, Europe, and North America. Many of them are doing important work like standing up for human rights, teaching about Bitcoin, making videos, and reporting on what’s happening on the ground so that they can make their fellow humans aware of the injustice going on on the ground. We made sure to keep their names private so they could talk freely. 5 of the people we spoke with were Freedom Fellows with the Human Rights Foundation.
+
+The below data reflects a combination of in person interviews as well as questionnaires. Both the interviews and questionnaires contained the same question structure. We aimed to understand the communication and financial needs of activists.
+
+The below information will now dive into those two areas and share their user needs. 
+It should be noted that this initiative is a small sample size of the actual full population of xxx(number) activists fighting for freedom across the world and that more data would be useful to collect over time.
+The quantitative data is factual while the written summaries of the data is the researchers own interpretation of the data.
+Let’s dive into the data:
+
+## Communication
+Activists face a tricky situation: how to reach lots of people while keeping themselves and their friends safe. Our research shows they often use apps like WhatsApp, Signal, Telegram, Facebook, and Twitter – because everyone uses them. But using these apps can be risky. When asked who they communicated with
+
+6/11 said they communicate with Fellow activists and teammates
+6/11 said they communicate with Family and close friends
+3/11 said that they communicate with People who fund their work
+9/11 Said that they communicate with the general public
+5/11 Said that they communicate with media people and journalists
+
+## When we asked them who they communicate with the most they said:
+
+5/11 said they communicated the most with fellow activists and team mates
+2/11 said that they communicate with family and close friends
+1/11 said that they communicate with people who fund their work
+5/11 said that they communicate with the general public
+1/11 said that they communicate with media folks and journalists
+
+The general public is the largest bucket as well as with fellow activists and teammates being the second bucket.
+This then becomes clear that tools that will empower them to communicate with the general public and their fellow team mates would be the most useful to them.
+Most of them are using multiple platforms to serve their communication needs
+
+For more one on one or group communication they use: 
+○ WhatsApp: 4/11 mentioned 
+○ Signal: 4/11 mentioned
+○ Telegram: 4/11 mentioned
+
+The social media platforms that they use to communicate with the general public are: 
+○ Facebook/Facebook Messenger: 2/11 mentioned
+○ Twitter: 2/11 mentioned ○ Instagram: 1/11 mentioned
+○ TikTok: 1/11 mentioned ○ YouTube: 1/11 mentioned
+
+Some other platforms were mentioned as well such as: 
+○ Nostr: 1/11 mentioned 
+○ Newsletter: 1/11 mentioned 
+○ Micro cinema: 1/11 mentioned
+
+As mentioned previously many of them are combining platforms: 
+● 7/11 mentioned multiple platforms 
+● 4/11 mentioned only one platform
+
+When we asked them what they liked about the applications they are using, they said:
+1. The convenience and that most people were using it
+2. Seeing a message confirmation when it's delivered
+3. That the UI was easy to use
+4. That there is the ability to video call
+5. That with social media platforms they can see which posts engage more people
+   
+Yet they wished that there was:
+1. Better privacy
+2. Non KYC solutions for SIM cards
+3. Offline communication methods that work without internet like Firechat
+		
+Most of them are afraid
+
+5/11 people had already had their communication account either spied on or hacked or there were hacking attempts made. 
+> "Yes, I have been blocked and spied on many times, now it is difficult for them because we advise our followers to recommend the page."
+
+6/11 people said that they were afraid of being spied on: 
+> "I am highly afraid of being monitored through spy software and transpassing internet footprint."
+
+Many had mixed feelings about the apps they were using. They were pushed into using these apps because their followers/audience is there yet they face a very real reality of being shadow banned. Many have had attempted hacks on their accounts or some of them had already been hacked.
+
+Many activists are using a VPN to stay safe. 6/11 people were using one and did so so that they could keep their location private.
+
+The risk is real:
+
+For 5 out of the 11 people we interviewed said that having their messages seen would result in extremely uncomfortable situations. For many of them they would be sent to prison or be killed. Having safe and secure communication that is not able to be intervened or hacked is an extremely high priority for them. They currently use tools on a daily basis that they don’t feel comfortable using simply due to the fact that these are the main stream communication direct messaging and social media platforms.
+One person we spoke with had their laptop stolen and was arrested.
+
+> "And security entered my house and took my laptop and took some valuables. After that some serious things happened I was arrested and assaulted and I had had to flee"
+
+Two of the people we spoke with had already been to prison due to their activism work.
+
+## Financial
+When we asked them how they send and received money
+Most of the people still use regular banks. A few are trying Bitcoin too. Some people live in different countries so they need banks in multiple places. People are curious about Bitcoin but still mostly use fiat money.
+The numbers:
+- 8/9 use regular banks
+- 2/9 use Bitcoin, in addition to regular banks
+
+### How activists are being pushed out of traditional banking
+Activists can't rely on normal banking. They're being pushed out of the system and have to find creative ways to handle money. Their bank accounts have been frozen, closed or threatened to have them closed or frozen. They have used workarounds such as offshore accounts and moving money through multiple places. Some can't even have personal bank accounts anymore. 9 people answered this question
+
+- 4/9 had accounts frozen or closed
+- 1/9 account currently frozen
+- 1/9 threatened with freezing
+- 1/9 person has no personal bank account (government closed it)
+
+### The reality of activist money management
+Activists are using very basic, simple ways to track money. No professional accounting systems. Most people are just writing things down or using basic computer tools. It's all pretty informal and low-tech. 9 people answered this question:
+
+- 3/9 use manual/written tracking
+- 2/9 use Excel/spreadsheets
+- 2/9 rely on bank systems (emails, online banking)
+- 1/9 uses screenshots as proof
+- 1/9 mentioned accounting system
+
+Why privacy matters when your life depends on it
+Privacy is extremely important to activists. They are scared about surveillance and worried it's getting worse. They don't trust banks because they share info with governments. Credit card companies sell data and try to manipulate behavior. AI surveillance is a big worry. Many think digital currencies controlled by governments (CBDCs) will make things even worse. 8 people answered this question:
+5/8 said privacy is "very important"
+They are worried about:
+Government surveillance - banks tell governments everything
+AI tracking - artificial intelligence watching money
+CBDCs - government digital currencies will make privacy worse
+Data selling - credit card companies sell personal info
+
+Activists and Bitcoin
+How much do activists really understand Bitcoin?
+Response Count: 9 responses
+
+High knowledge: 4 responses (44%) - "Very much", "its of the most importance", "I know alot 9/10", "I really know alot"
+Basic/surface knowledge: 3 responses (33%) - "surface level", "Not too much", "Just the basics"
+Low knowledge with concerns: 2 responses (22%) - "some doubts", "Not so much but I have a Bitcoin account"
+What this really means: Knowledge splits into clear groups. The high-knowledge people are very confident and see Bitcoin as extremely important. The basic knowledge group understands some things but isn't deep. The low knowledge group has doubts about how it works in their country, but one person already has an account even though they don't understand it well.
+Are activists actually using Bitcoin in their work?
+Response Count: 7 responses
+Here's what we found:
+
+
+Yes, used Bitcoin: 3 responses (43%)
+No, never used: 4 responses (57%)
+The real stories: More people haven't used Bitcoin for activism than have. But the people who did use it had very different experiences. One person said "Bitcoin was a lifeline when I got out of Burma" - showing it can be life-saving. Another uses it mainly for purchases. One person has Bitcoin but doesn't understand how it works, showing the gap between access and knowledge.
+For those who tried it: What actually happened?
+Response Count: 6 responses
+The good and the bad:
+
+Had problems: 2 responses (33%) - transaction fees, phishing scams
+Positive experiences: 2 responses (33%) - "hassle free", "Anti-censorship anti-fiat devaluation"
+Not applicable: 2 responses (33%)
+What we learned: The people who used Bitcoin had mostly good things to say. They like that it works anywhere in the world and protects against government money problems. The main issues are rising transaction fees and scams trying to steal money. Overall, the benefits seem to outweigh the problems for those who figured it out.
+Why haven't people started using it?
+Response Count: 6 responses
+The barriers are real:
+
+Lack of confidence/understanding: 3 responses (50%)
+Geographic/practical limitations: 1 response (17%)
+Job-related concerns: 1 response (17%)
+Not applicable: 1 response (17%)
+What's really stopping people: The biggest barrier is confidence. People don't trust it or understand how to use it. One person wants training in Portuguese, showing language barriers. Another worries about their job safety. Someone in Madagascar points out you can't buy basic things like food or plane tickets with it there. The barriers are more about education and practical use than the technology itself.
+How do you turn Bitcoin back into regular money?
+Response Count: 6 responses
+Most people are lost:
+Don't know how: 2 responses (33%)
+Use exchanges: 1 response (17%)
+Physical OTC shops: 1 response (17%)
+Other/unclear methods: 2 responses (33%)
+Why this matters: Many people are completely lost about how to convert Bitcoin to regular money. This is a huge practical barrier. The people who do know mention exchanges or physical shops where you can trade in person. This shows a big knowledge gap about basic Bitcoin operations that keeps people from using it.
+____________________________________________________________
+What would the perfect activist money tool look like?
+Response Count: 9 responses
+What people are asking for:
+Privacy/security focused: 4 responses (44%)
+Easy access to cash: 2 responses (22%)
+Government-resistant: 2 responses (22%)
+Platform integration: 1 response (11%)
+People want something that combines Bitcoin's benefits with much better usability. They want privacy like Signal, the ability to get cash quickly, and protection from government control. One person wants a wallet that can lock money away for safety. Another dreams of building their own social media platform where people can send money directly. The common theme is wanting Bitcoin's power but with tools that normal people can actually use without being tech experts.
+
 
 ![Desktop](/images/11-2.jpg)
 *Photo by [EFFYDESK](https://unsplash.com/photos/a-computer-monitor-sitting-on-top-of-a-wooden-desk-rD9x3VVsYHI) on [Unsplash](https://unsplash.com/)*
 
-The digital age offers numerous platforms and opportunities for writers. Blogging, social media, and online publications provide accessible and immediate ways to share our work with a global audience. Embracing these digital tools enhances our reach and impact. Writing retreats and residencies offer dedicated time and space for deep focus and creative immersion. These opportunities provide a supportive environment for intensive writing and the chance to connect with other writers and creatives.
 
 Writing prompts and exercises can spark creativity and overcome writer’s block. These tools encourage us to think outside the box and explore new ideas. Regular practice with prompts keeps our writing fresh and dynamic.
 
