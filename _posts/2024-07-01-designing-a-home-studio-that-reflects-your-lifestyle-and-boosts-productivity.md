@@ -14,38 +14,44 @@ tags: [Activists]
 Activists worldwide face a dangerous balancing act – they need to reach massive audiences while keeping themselves and their networks safe. This research reveals the stark reality of their daily struggle with inadequate tools that force them to choose between impact, reach and security.
 
 ### What we found
-Through interviews with 11 activists across four continents, we discovered that current communication and financial tools are failing those who need them most. Nearly half (5/11) have already had their accounts hacked or spied on, yet they're forced to use mainstream platforms like WhatsApp, Signal, and Twitter because that's where their audiences are. The risk is real – for many, having their messages intercepted could mean prison or death.
+Through interviews with 11 activists across four continents, we discovered that current communication and financial tools are failing those who need them most. Nearly half have already had their accounts hacked or spied on, yet they're forced to use mainstream platforms like WhatsApp, Signal, and Twitter because that's where their audiences are. The risk is real – for many, having their messages intercepted could mean prison or death.
 
 ### Communication reality
-Activists primarily communicate with two groups: the general public (9/11) and fellow activists (6/11). They're using multiple platforms out of necessity, not preference. While they appreciate the convenience and widespread adoption of current tools, they desperately want better privacy, non-KYC solutions, and offline communication methods. Most (6/11) are using VPNs, showing they're proactively trying to protect themselves with whatever tools they have.
+Activists primarily communicate with two groups:
+1. The general public
+2. Fellow activists
+
+They're using multiple platforms to communicate with these two groups, they use these out of necessity, not preference. While they appreciate the convenience and widespread adoption of current tools, they desperately want better privacy, non-KYC solutions, and offline communication methods. Most are using VPNs, showing they're proactively trying to protect their privacy with whatever tools they have.
 
 ### Financial struggles
-The traditional banking system is actively pushing activists out. Of those who answered, nearly half (4/9) have had accounts frozen or closed, with others threatened or completely cut off from personal banking. They're managing money with basic tools – handwritten notes, Excel sheets, and bank emails – because professional systems aren't accessible or safe for them. Most still rely on regular banks (8/9) with only a few experimenting with Bitcoin (2/9).
+The traditional banking system is actively pushing activists out. Of those who answered, nearly half have had accounts frozen or closed, with others threatened or completely cut off from personal banking. They're managing money with basic tools – handwritten notes, Excel sheets, and bank emails – because professional systems aren't accessible or safe for them. Most still rely on regular banks with only a few experimenting with bitcoin.
 
-### The Bitcoin Gap
-While some activists see Bitcoin as potentially life-saving – one said "Bitcoin was a lifeline when I got out of Burma" – there's a massive knowledge and usability gap. Understanding ranges from very high (44%) to practically none, and half of those interested lack confidence to actually use it. Many don't know how to convert Bitcoin back to regular money, creating a significant practical barrier.
+### The bitcoin Gap
+While some activists see bitcoin as potentially life-saving – one said "Bitcoin was a lifeline when I got out of Burma" – there's a massive knowledge and usability gap. 
 
-### Bottom Line
-Activists need tools that combine the reach of mainstream platforms with the security of military-grade privacy systems. They need financial tools that work when traditional systems fail them. The current landscape forces them into impossible choices between effectiveness and safety – and the development community has a real opportunity to build solutions that could literally save lives while empowering those fighting for a better world.
+Understanding pf bitcoin ranges from very high to practically none, and half of those interested lack confidence to actually use it. Many don't know how to convert bitcoin back to regular money, creating a significant practical barrier.
+
+### Bottom line
+Activists need tools that combine the reach of mainstream platforms with the secruity of something that is highly secure and private. They need financial tools that work when traditional systems fail them. The current landscape forces them into impossible choices between effectiveness and safety – and the development community has a real opportunity to build solutions that could literally save lives while empowering those fighting for a better world.
 
 > "quote here."
 
 ## Why we conducted this research
-It’s a tough time for people speaking out. Activists around the world face big problems – from being blocked online to having trouble getting money. We wanted to understand what they really need so we can have insight into what tools they really need. With this insight we can then share it with the developer community so that together we can truly support those fighting for a better world.
+It’s a tough time for people speaking out. Activists around the world face big problems – from being blocked online to having trouble getting money. We wanted to understand what they struggle with and use on a daily basis. With this insight we can then share it with the developer community so that together we can truly support those fighting for a better world.
 
 The research initiative aimed to understand two main areas:
 
 ### 1. Communication
-We wanted to understand how they currently communicate, who they communicate with the most, as well as their fears. Using this insight we can then share this with the development community so that they might understand what tools could be built or which already exist that could support the communication needs of activists.
+We wanted to understand how they currently communicate, who they communicate with the most, as well as their fears. 
 
 ### 2. Financial transacting
 We wanted to understand their financial transaction needs. How do they transact right now, what are they struggling with and what are their needs?
 
 ## How we did it
 Between May 26th and 28th, 2025, we talked to 11 activists from all over – Africa, Asia, Europe, and North America. 
-Many of them are doing important work like standing up for human rights, teaching about Bitcoin, making videos, and reporting on what’s happening on the ground so that they can make their fellow humans aware of the injustice going on on the ground. We made sure to keep their names private so they could talk freely. 5 of the people we spoke with were Freedom Fellows with the Human Rights Foundation.
+Many of them are doing important work like standing up for human rights, teaching about bitcoin, making videos, and reporting on what’s happening on the ground so that they can make their fellow humans aware of the injustice going on on the ground. We made sure to keep their names private so they could talk freely. 5 of the people we spoke with were Freedom Fellows with the Human Rights Foundation.
 
-The below data reflects a combination of in person interviews as well as questionnaires. Both the interviews and questionnaires contained the same question structure. We aimed to understand the communication and financial needs of activists.
+The below data reflects a combination of in person interviews as well as questionnaires. Both the interviews and questionnaires contained the same question structure. 
 
 The below information will now dive into those two areas and share their user needs. 
 It should be noted that:
@@ -75,6 +81,7 @@ Activists face a tricky situation: how to reach lots of people while keeping the
 
 The general public is the largest bucket as well as with fellow activists and teammates being the second bucket.
 This then becomes clear that tools that will empower them to communicate with the general public and their fellow team mates would be the most useful to them.
+
 Most of them are using multiple platforms to serve their communication needs
 
 For more one on one or group communication they use: 
@@ -84,8 +91,10 @@ For more one on one or group communication they use:
 
 The social media platforms that they use to communicate with the general public are: 
 - Facebook/Facebook Messenger: 2/11 mentioned
-- Twitter: 2/11 mentioned ○ Instagram: 1/11 mentioned
-- TikTok: 1/11 mentioned ○ YouTube: 1/11 mentioned
+- Twitter: 2/11 mentioned
+- Instagram: 1/11 mentioned
+- TikTok: 1/11 mentioned
+- YouTube: 1/11 mentioned
 
 Some other platforms were mentioned as well such as: 
 - Nostr: 1/11 mentioned
@@ -106,7 +115,7 @@ When we asked them what they liked about the applications they are using, they s
 Yet they wished that there was:
 1. Better privacy
 2. Non KYC solutions for SIM cards
-3. Offline communication methods that work without internet like Firechat
+3. Offline communication methods that work without internet 
 		
 Most of them are afraid
 
@@ -131,10 +140,10 @@ Two of the people we spoke with had already been to prison due to their activism
 
 ## Financial
 When we asked them how they send and received money
-Most of the people still use regular banks. A few are trying Bitcoin too. Some people live in different countries so they need banks in multiple places. People are curious about Bitcoin but still mostly use fiat money.
+Most of the people still use regular banks. A few are trying bitcoin too. Some people live in different countries so they need banks in multiple places. People are curious about bitcoin but still mostly use fiat money.
 The numbers:
 - 8/9 use regular banks
-- 2/9 use Bitcoin, in addition to regular banks
+- 2/9 use bitcoin, in addition to regular banks
 
 ### How activists are being pushed out of traditional banking
 Activists can't rely on normal banking. They're being pushed out of the system and have to find creative ways to handle money. Their bank accounts have been frozen, closed or threatened to have them closed or frozen. They have used workarounds such as offshore accounts and moving money through multiple places. Some can't even have personal bank accounts anymore. 9 people answered this question
@@ -145,7 +154,9 @@ Activists can't rely on normal banking. They're being pushed out of the system a
 - 1/9 person has no personal bank account (government closed it)
 
 ### The reality of activist money management
-Activists are using very basic, simple ways to track money. No professional accounting systems. Most people are just writing things down or using basic computer tools. It's all pretty informal and low-tech. 9 people answered this question:
+Activists are using very basic, simple ways to track money. No professional accounting systems. Most people are just writing things down or using basic computer tools. It's all pretty informal and low-tech. 
+
+9 people answered this question:
 
 - 3/9 use manual/written tracking
 - 2/9 use Excel/spreadsheets
@@ -154,7 +165,9 @@ Activists are using very basic, simple ways to track money. No professional acco
 - 1/9 mentioned accounting system
 
 ### Why privacy matters when your life depends on it
-Privacy is extremely important to activists. They are scared about surveillance and worried it's getting worse. They don't trust banks because they share info with governments. Credit card companies sell data and try to manipulate behavior. AI surveillance is a big worry. Many think digital currencies controlled by governments (CBDCs) will make things even worse. 8 people answered this question:
+Privacy is extremely important to activists. They are scared about surveillance and worried it's getting worse. They don't trust banks because they share info with governments. Credit card companies sell data and try to manipulate behavior. AI surveillance is a big worry. Many think digital currencies controlled by governments (CBDCs) will make things even worse. 
+
+8 people answered this question:
 5/8 said privacy is "very important"
 
 They are worried about:
@@ -170,12 +183,11 @@ Response Count: 9 responses
 - High knowledge: 4 responses (44%) 
 - Basic/surface knowledge: 3 responses (33%) 
 - Low knowledge with concerns: 2 responses (22%) 
-- 
-What this really means: Knowledge splits into clear groups. The high-knowledge people are very confident and see Bitcoin as extremely important. The basic knowledge group understands some things but isn't deep. The low knowledge group has doubts about how it works in their country, but one person already has an account even though they don't understand it well.
+  
+Knowledge splits into clear groups. The high-knowledge people are very confident and see bitcoin as extremely important. The basic knowledge group understands some things but isn't deep. The low knowledge group has doubts about how it works in their country, but one person already has an account even though they don't understand it well.
 
-### Are activists actually using Bitcoin in their work?
+### Are activists actually using bitcoin in their work?
 Response Count: 7 responses
-Here's what we found:
 - Yes, used Bitcoin: 3 responses (43%)
 - No, never used: 4 responses (57%)
 
@@ -183,8 +195,8 @@ The real stories: More people haven't used bitcoin for activism than have. But t
 
 ### For those who tried it: What actually happened?
 Response Count: 6 responses
-- Had problems: 2 responses (33%) - transaction fees, phishing scams
-- Positive experiences: 2 responses (33%) - "hassle free", "Anti-censorship anti-fiat devaluation"
+- Had problems: 2 responses (33%) 
+- Positive experiences: 2 responses (33%) 
 - Not applicable: 2 responses (33%)
 
 What we learned: The people who used bitcoin had mostly good things to say. They like that it works anywhere in the world and protects against government money problems. The main issues are rising transaction fees and scams trying to steal money. Overall, the benefits seem to outweigh the problems for those who figured it out.
@@ -196,17 +208,16 @@ Response Count: 6 responses
 - Job-related concerns: 1 response (17%)
 - Not applicable: 1 response (17%)
   
-What's really stopping people: The biggest barrier is confidence. People don't trust it or understand how to use it. One person wants training in Portuguese, showing language barriers. Another worries about their job safety. Someone in Madagascar points out you can't buy basic things like food or plane tickets with it there. The barriers are more about education and practical use than the technology itself.
+The biggest barrier is confidence. People don't trust it or understand how to use it. One person wants training in Portuguese, showing language barriers. Another worries about their job safety. Someone in Madagascar points out you can't buy basic things like food or plane tickets with it there. The barriers are more about education and practical use than the technology itself.
 
 How do you turn bitcoin back into regular money?
 Response Count: 6 responses
-Most people are lost:
-Don't know how: 2 responses (33%)
-Use exchanges: 1 response (17%)
-Physical OTC shops: 1 response (17%)
-Other/unclear methods: 2 responses (33%)
+- Don't know how: 2 responses (33%)
+- Use exchanges: 1 response (17%)
+- Physical OTC shops: 1 response (17%)
+- Other/unclear methods: 2 responses (33%)
 
-Many people are completely lost about how to convert bitcoin to regular money. This is a huge practical barrier. The people who do know mention exchanges or physical shops where you can trade in person. This shows a big knowledge gap about basic Bitcoin operations that keeps people from using it.
+Many people are completely lost about how to convert bitcoin to regular money. This is a huge practical barrier. The people who do know mention exchanges or physical shops where you can trade in person. This shows a big knowledge gap about basic bitcoin operations that keeps people from using it.
 
 What would the perfect activist money tool look like?
 Response Count: 9 responses
@@ -221,8 +232,3 @@ People want something that combines bitcoin's benefits with much better usabilit
 
 ![Desktop](/images/11-2.jpg)
 *Photo by [EFFYDESK](https://unsplash.com/photos/a-computer-monitor-sitting-on-top-of-a-wooden-desk-rD9x3VVsYHI) on [Unsplash](https://unsplash.com/)*
-
-
-Writing prompts and exercises can spark creativity and overcome writer’s block. These tools encourage us to think outside the box and explore new ideas. Regular practice with prompts keeps our writing fresh and dynamic.
-
-Writing for different audiences requires an understanding of their needs and expectations. Tailoring our content to resonate with specific groups, whether it’s fellow creatives, clients, or the general public, enhances its relevance and effectiveness.
