@@ -42,53 +42,58 @@ We wanted to understand how they currently communicate, who they communicate wit
 We wanted to understand their financial transaction needs. How do they transact right now, what are they struggling with and what are their needs?
 
 ## How we did it
-Between May 26th and 28th, 2025, we talked to 11 activists from all over – Africa, Asia, Europe, and North America. Many of them are doing important work like standing up for human rights, teaching about Bitcoin, making videos, and reporting on what’s happening on the ground so that they can make their fellow humans aware of the injustice going on on the ground. We made sure to keep their names private so they could talk freely. 5 of the people we spoke with were Freedom Fellows with the Human Rights Foundation.
+Between May 26th and 28th, 2025, we talked to 11 activists from all over – Africa, Asia, Europe, and North America. 
+Many of them are doing important work like standing up for human rights, teaching about Bitcoin, making videos, and reporting on what’s happening on the ground so that they can make their fellow humans aware of the injustice going on on the ground. We made sure to keep their names private so they could talk freely. 5 of the people we spoke with were Freedom Fellows with the Human Rights Foundation.
 
 The below data reflects a combination of in person interviews as well as questionnaires. Both the interviews and questionnaires contained the same question structure. We aimed to understand the communication and financial needs of activists.
 
 The below information will now dive into those two areas and share their user needs. 
-It should be noted that this initiative is a small sample size of the actual full population of xxx(number) activists fighting for freedom across the world and that more data would be useful to collect over time.
-The quantitative data is factual while the written summaries of the data is the researchers own interpretation of the data.
+It should be noted that:
+1. This initiative is a small sample size of the actual full population of xxx(number) activists fighting for freedom across the world and that more data would be useful to collect over time.
+2. The quantitative data is factual while the written summaries of the data is the researchers own interpretation of the data.
+3. Communication needs 11 responses were recieved.
+4. Financial needs 9 responses were recieved.
+
 Let’s dive into the data:
 
 ## Communication
 Activists face a tricky situation: how to reach lots of people while keeping themselves and their friends safe. Our research shows they often use apps like WhatsApp, Signal, Telegram, Facebook, and Twitter – because everyone uses them. But using these apps can be risky. When asked who they communicated with
 
-6/11 said they communicate with Fellow activists and teammates
-6/11 said they communicate with Family and close friends
-3/11 said that they communicate with People who fund their work
-9/11 Said that they communicate with the general public
-5/11 Said that they communicate with media people and journalists
+- 6/11 said they communicate with Fellow activists and teammates
+- 6/11 said they communicate with Family and close friends
+- 3/11 said that they communicate with People who fund their work
+- 9/11 Said that they communicate with the general public
+- 5/11 Said that they communicate with media people and journalists
 
 ## When we asked them who they communicate with the most they said:
 
-5/11 said they communicated the most with fellow activists and team mates
-2/11 said that they communicate with family and close friends
-1/11 said that they communicate with people who fund their work
-5/11 said that they communicate with the general public
-1/11 said that they communicate with media folks and journalists
+- 5/11 said they communicated the most with fellow activists and team mates
+- 2/11 said that they communicate with family and close friends
+- 1/11 said that they communicate with people who fund their work
+- 5/11 said that they communicate with the general public
+- 1/11 said that they communicate with media folks and journalists
 
 The general public is the largest bucket as well as with fellow activists and teammates being the second bucket.
 This then becomes clear that tools that will empower them to communicate with the general public and their fellow team mates would be the most useful to them.
 Most of them are using multiple platforms to serve their communication needs
 
 For more one on one or group communication they use: 
-○ WhatsApp: 4/11 mentioned 
-○ Signal: 4/11 mentioned
-○ Telegram: 4/11 mentioned
+- WhatsApp: 4/11 mentioned
+- Signal: 4/11 mentioned
+- Telegram: 4/11 mentioned
 
 The social media platforms that they use to communicate with the general public are: 
-○ Facebook/Facebook Messenger: 2/11 mentioned
-○ Twitter: 2/11 mentioned ○ Instagram: 1/11 mentioned
-○ TikTok: 1/11 mentioned ○ YouTube: 1/11 mentioned
+- Facebook/Facebook Messenger: 2/11 mentioned
+- Twitter: 2/11 mentioned ○ Instagram: 1/11 mentioned
+- TikTok: 1/11 mentioned ○ YouTube: 1/11 mentioned
 
 Some other platforms were mentioned as well such as: 
-○ Nostr: 1/11 mentioned 
-○ Newsletter: 1/11 mentioned 
-○ Micro cinema: 1/11 mentioned
+- Nostr: 1/11 mentioned
+- Newsletter: 1/11 mentioned 
+- Micro cinema: 1/11 mentioned
 
 As mentioned previously many of them are combining platforms: 
-● 7/11 mentioned multiple platforms 
+- 7/11 mentioned multiple platforms 
 ● 4/11 mentioned only one platform
 
 When we asked them what they liked about the applications they are using, they said:
