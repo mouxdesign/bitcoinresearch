@@ -93,8 +93,8 @@ Some other platforms were mentioned as well such as:
 - Micro cinema: 1/11 mentioned
 
 As mentioned previously many of them are combining platforms: 
-- 7/11 mentioned multiple platforms 
-● 4/11 mentioned only one platform
+- 7/11 mentioned multiple platforms
+- 4/11 mentioned only one platform
 
 When we asked them what they liked about the applications they are using, they said:
 1. The convenience and that most people were using it
@@ -153,65 +153,70 @@ Activists are using very basic, simple ways to track money. No professional acco
 - 1/9 uses screenshots as proof
 - 1/9 mentioned accounting system
 
-Why privacy matters when your life depends on it
+### Why privacy matters when your life depends on it
 Privacy is extremely important to activists. They are scared about surveillance and worried it's getting worse. They don't trust banks because they share info with governments. Credit card companies sell data and try to manipulate behavior. AI surveillance is a big worry. Many think digital currencies controlled by governments (CBDCs) will make things even worse. 8 people answered this question:
 5/8 said privacy is "very important"
-They are worried about:
-Government surveillance - banks tell governments everything
-AI tracking - artificial intelligence watching money
-CBDCs - government digital currencies will make privacy worse
-Data selling - credit card companies sell personal info
 
-Activists and Bitcoin
+They are worried about:
+- Government surveillance - banks tell governments everything
+- AI tracking - artificial intelligence watching money
+- CBDCs - government digital currencies will make privacy worse
+- Data selling - credit card companies sell personal info
+
+### Activists and Bitcoin
 How much do activists really understand Bitcoin?
 Response Count: 9 responses
 
-High knowledge: 4 responses (44%) - "Very much", "its of the most importance", "I know alot 9/10", "I really know alot"
-Basic/surface knowledge: 3 responses (33%) - "surface level", "Not too much", "Just the basics"
-Low knowledge with concerns: 2 responses (22%) - "some doubts", "Not so much but I have a Bitcoin account"
+- High knowledge: 4 responses (44%) 
+- Basic/surface knowledge: 3 responses (33%) 
+- Low knowledge with concerns: 2 responses (22%) 
+- 
 What this really means: Knowledge splits into clear groups. The high-knowledge people are very confident and see Bitcoin as extremely important. The basic knowledge group understands some things but isn't deep. The low knowledge group has doubts about how it works in their country, but one person already has an account even though they don't understand it well.
-Are activists actually using Bitcoin in their work?
+
+### Are activists actually using Bitcoin in their work?
 Response Count: 7 responses
 Here's what we found:
+- Yes, used Bitcoin: 3 responses (43%)
+- No, never used: 4 responses (57%)
 
+The real stories: More people haven't used bitcoin for activism than have. But the people who did use it had very different experiences. One person said "Bitcoin was a lifeline when I got out of Burma" - showing it can be life-saving. Another uses it mainly for purchases. One person has bitcoin but doesn't understand how it works, showing the gap between access and knowledge.
 
-Yes, used Bitcoin: 3 responses (43%)
-No, never used: 4 responses (57%)
-The real stories: More people haven't used Bitcoin for activism than have. But the people who did use it had very different experiences. One person said "Bitcoin was a lifeline when I got out of Burma" - showing it can be life-saving. Another uses it mainly for purchases. One person has Bitcoin but doesn't understand how it works, showing the gap between access and knowledge.
-For those who tried it: What actually happened?
+### For those who tried it: What actually happened?
 Response Count: 6 responses
-The good and the bad:
+- Had problems: 2 responses (33%) - transaction fees, phishing scams
+- Positive experiences: 2 responses (33%) - "hassle free", "Anti-censorship anti-fiat devaluation"
+- Not applicable: 2 responses (33%)
 
-Had problems: 2 responses (33%) - transaction fees, phishing scams
-Positive experiences: 2 responses (33%) - "hassle free", "Anti-censorship anti-fiat devaluation"
-Not applicable: 2 responses (33%)
-What we learned: The people who used Bitcoin had mostly good things to say. They like that it works anywhere in the world and protects against government money problems. The main issues are rising transaction fees and scams trying to steal money. Overall, the benefits seem to outweigh the problems for those who figured it out.
-Why haven't people started using it?
+What we learned: The people who used bitcoin had mostly good things to say. They like that it works anywhere in the world and protects against government money problems. The main issues are rising transaction fees and scams trying to steal money. Overall, the benefits seem to outweigh the problems for those who figured it out.
+
+### Why haven't people started using it?
 Response Count: 6 responses
-The barriers are real:
-
-Lack of confidence/understanding: 3 responses (50%)
-Geographic/practical limitations: 1 response (17%)
-Job-related concerns: 1 response (17%)
-Not applicable: 1 response (17%)
+- Lack of confidence/understanding: 3 responses (50%)
+- Geographic/practical limitations: 1 response (17%)
+- Job-related concerns: 1 response (17%)
+- Not applicable: 1 response (17%)
+  
 What's really stopping people: The biggest barrier is confidence. People don't trust it or understand how to use it. One person wants training in Portuguese, showing language barriers. Another worries about their job safety. Someone in Madagascar points out you can't buy basic things like food or plane tickets with it there. The barriers are more about education and practical use than the technology itself.
-How do you turn Bitcoin back into regular money?
+
+How do you turn bitcoin back into regular money?
 Response Count: 6 responses
 Most people are lost:
 Don't know how: 2 responses (33%)
 Use exchanges: 1 response (17%)
 Physical OTC shops: 1 response (17%)
 Other/unclear methods: 2 responses (33%)
-Why this matters: Many people are completely lost about how to convert Bitcoin to regular money. This is a huge practical barrier. The people who do know mention exchanges or physical shops where you can trade in person. This shows a big knowledge gap about basic Bitcoin operations that keeps people from using it.
-____________________________________________________________
+
+Many people are completely lost about how to convert bitcoin to regular money. This is a huge practical barrier. The people who do know mention exchanges or physical shops where you can trade in person. This shows a big knowledge gap about basic Bitcoin operations that keeps people from using it.
+
 What would the perfect activist money tool look like?
 Response Count: 9 responses
 What people are asking for:
-Privacy/security focused: 4 responses (44%)
-Easy access to cash: 2 responses (22%)
-Government-resistant: 2 responses (22%)
-Platform integration: 1 response (11%)
-People want something that combines Bitcoin's benefits with much better usability. They want privacy like Signal, the ability to get cash quickly, and protection from government control. One person wants a wallet that can lock money away for safety. Another dreams of building their own social media platform where people can send money directly. The common theme is wanting Bitcoin's power but with tools that normal people can actually use without being tech experts.
+- Privacy/security focused: 4 responses (44%)
+- Easy access to cash: 2 responses (22%)
+- Government-resistant: 2 responses (22%)
+- Platform integration: 1 response (11%)
+  
+People want something that combines bitcoin's benefits with much better usability. They want privacy like Signal, the ability to get cash quickly, and protection from government control. One person wants a wallet that can lock money away for safety. Another dreams of building their own social media platform where people can send money directly. The common theme is wanting bitcoin's power but with tools that normal people can actually use without being tech experts.
 
 
 ![Desktop](/images/11-2.jpg)
